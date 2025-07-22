@@ -7,6 +7,7 @@ freeze: true
 # Enable banner style title blocks
 title-block-banner: true
 
+# Format options - PROPER INDENTATION IS CRUCIAL
 format:
   html:
-    theme: cerulean
+    theme: cosmo
