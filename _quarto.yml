@@ -8,9 +8,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/karlcal1
+      - icon: linkedin
+        href: https://www.linkedin.com/in/karl-vilhelmsson-emneby-a40267215/
 format:
   html:
     theme:
