@@ -9,4 +9,4 @@ title-block-banner: true
 
 format:
   html:
-    theme: cosmo
+    theme: cerulean
