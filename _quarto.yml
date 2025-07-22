@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME  # This means "hey Quarto, don't delete this file!"
 
 website:
   title: "karlve.com"
