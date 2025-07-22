@@ -9,7 +9,7 @@ about:
 **Fundamental physics is an attempt at approximating the universe's source code.**  
 **AI will probably find it.**  
 
-If new ideas are clever linear combinations of previous ideas[^1], it seems that artificial neural networks will be the ones coming up most new theories and inventions by virtue of their computational speed.  
+If new ideas are clever linear combinations of previous ideas[^1], it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.  
 
 This is exciting (and pretty scary), and on this page, I want to **explore the basics of deep learning in neural networks**. 
 
