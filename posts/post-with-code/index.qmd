@@ -1,9 +1,8 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2025-07-20"
-categories: [news, code, analysis]
+title: "I'll put a post here in the coming weeks"
+author: "karl Vilhelmsson Emneby"
+date: "2025-07-22"
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This will soon be a post with executable code.
