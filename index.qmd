@@ -1,5 +1,5 @@
 ---
-title: "Karl Vilhelmsson Emneby"
+title: "Karl Vilgot Hubertus Vilhelmsson Emneby"
 listing:
   contents: posts
   sort: "date desc"
