@@ -1,1 +1,12 @@
 /* css styles */
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: right;
+  margin-top: -120px;
+  margin-right: 20px;
+  border: 3px solid white;
+}
