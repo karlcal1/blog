@@ -10,3 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+![Profile picture](otherPicOfMe.jpg)
