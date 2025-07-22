@@ -6,7 +6,7 @@
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center 15%;
   float: right;
   margin-top: -150px;
   margin-right: 20px;
@@ -17,13 +17,14 @@
 @media (max-width: 768px) {
   .profile-pic {
     width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    height: 125px;  /* Changed from 100px to make it oval */
+    border-radius: 50%;  /* This creates oval when width ≠ height */
     object-fit: cover;
+    object-position: center 15%;  /* Keep the same positioning */
     display: block;
-    margin: 20px auto;  /* Centers it */
-    float: none;  /* Removes the float */
-    margin-top: 0;  /* No negative margin */
+    margin: 20px auto;
+    float: none;
+    margin-top: 0;
     border: 3px solid #f0f0f0;
   }
 }
