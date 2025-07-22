@@ -14,7 +14,7 @@ If new ideas are clever linear combinations of previous ideas[^2], it seems that
 
 This is exciting (and pretty scary), and on this page, I want to **explore the basics of deep learning in neural networks**. 
 
-Feel free to reach out at karlcal@berkeley.edu! 
+Feel free to reach out at karlcal@berkeley.edu or karlcal@slac.stanford.edu! 
 
 
 [^1]: I conceptualize the world as:  
