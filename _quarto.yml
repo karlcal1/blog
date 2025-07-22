@@ -10,7 +10,7 @@ website:
     right:
       - about.qmd
       - icon: envelope
-        href: mailto:karlcal@berkeley.edu
+        href: "mailto:karlcal@berkeley.edu"
       - icon: github
         href: https://github.com/karlcal1
       - icon: linkedin
