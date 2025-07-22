@@ -9,8 +9,8 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: envelope
-        href: "mailto:karlcal@berkeley.edu"
+      - text: "CV"
+        href: "https://docs.google.com/document/d/1p3t-C2WdBLR2Mzka6oRuCfuDtN2X6dtAeCcjir_1ml0/export?format=pdf"
       - icon: github
         href: https://github.com/karlcal1
       - icon: linkedin
