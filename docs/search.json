@@ -18,14 +18,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The universe seems to be a richer version of John Conway’s Game of Life.1\nTherefore, fundamental physics is an attempt at approximating the source code.\nAI will probably find it.\nIf new ideas are clever linear combinations of previous ideas2, it seems that artificial neural networks will be the ones coming up most new theories and inventions by virtue of their computational speed.\nThis is exciting (and pretty scary), and on this page, I want to explore the basics of deep learning in neural networks.\nFeel free to reach out at karlcal@berkeley.edu or karlcal@slac.stanford.edu!"
+    "text": "Fundamental physics is an attempt at approximating the universe’s source code.\nAI will probably find it.\nIf new ideas are clever linear combinations of previous ideas1, it seems that artificial neural networks will be the ones coming up most new theories and inventions by virtue of their computational speed.\nThis is exciting (and pretty scary), and on this page, I want to explore the basics of deep learning in neural networks.\nFeel free to reach out at karlcal@berkeley.edu or karlcal@slac.stanford.edu!"
   },
   {
     "objectID": "about.html#footnotes",
     "href": "about.html#footnotes",
     "title": "About",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nI conceptualize the world as:\n1) The fundamental laws of physics (general relativity and quantum field theories are clearly approximate to the “source code”)\n2) Their associated fundamental constants (gravitational constant, Planck constant, elementary change, etc.)\n3) Initial conditions (energy density, matter-antimatter ratio, initial quantum fluctuations, etc.)\n4) Results of categories 1-3↩︎\nEven Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell’s equations. As far as I can tell, all new “idea vectors” are constructed from previous “idea vectors” in some fixed-dimensional space.↩︎"
+    "text": "Footnotes\n\n\nEven Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell’s equations. As far as I can tell, all new “idea vectors” are constructed from previous “idea vectors” in some fixed-dimensional space.↩︎"
   },
   {
     "objectID": "posts/post-with-code/index.html",
