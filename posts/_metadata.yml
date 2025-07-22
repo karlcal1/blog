@@ -10,4 +10,4 @@ title-block-banner: true
 # Format options - PROPER INDENTATION IS CRUCIAL
 format:
   html:
-    theme: cosmo
+    theme: default
