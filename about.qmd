@@ -7,7 +7,8 @@ about:
 --- 
 - I’m a 4th year physics major at UC Berkeley. 
 
-- I'm also a particle physics researcher at the [Neutrino Group at SLAC](https://web.slac.stanford.edu/neutrino/) under [Professor Hirohisa Tanaka](https://profiles.stanford.edu/hirohisa-tanaka), using latent spaces to investigate the low-energy excess of neutrino oscillations detected in the [MiniBooNE experiment](https://en.wikipedia.org/wiki/MiniBooNE). 
+- I'm also a particle physics researcher at the [Neutrino Group at SLAC](https://web.slac.stanford.edu/neutrino/) under [Professor Hirohisa Tanaka](https://profiles.stanford.edu/hirohisa-tanaka). 
+I use latent spaces to investigate the low-energy excess of electron neutrinos detected in the [MiniBooNE experiment](https://en.wikipedia.org/wiki/MiniBooNE). 
 We expect results to be ready by early September.
 
 - Before SLAC, I worked on Bayesian analysis for [Mu2e](https://mu2e.fnal.gov/) under Professor [Yury Kolomensky]([https://physics.berkeley.edu/people/faculty/yury-kolomensky]). 
