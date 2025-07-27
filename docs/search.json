@@ -18,14 +18,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Fundamental physics is an attempt at approximating the universe’s source code.\nAI will probably find it.\nIf new ideas are clever linear combinations of previous ideas1, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.\nThis is exciting (and pretty scary), and on this page, I want to explore the basics of deep learning in neural networks.\nFeel free to reach out at karlcal@berkeley.edu or karlcal@slac.stanford.edu!"
+    "text": "I’m a 4th year physics major at UC Berkeley.\nI’m also a particle physics researcher at the Neutrino Group at SLAC under Professor Hirohisa Tanaka, using latent spaces to investigate the low-energy excess of neutrino oscillations detected in the MiniBooNE experiment. We expect results to be ready by early September.\nBefore SLAC, I worked on Bayesian analysis for Mu2e under Professor Yury Kolomensky.\nBefore Berkeley, I wanted to experience “real life” – so I went all in and took a half a year to work as a trash man. Then I went to South America for a half a year. Stuff like the deadly fear I felt when running from wild dogs in the desert gave me clarity on what matters in life.\nI love language and spend more than half of my time speaking languages other than English (~ 30% Chinese, 30% English, 15% Spanish, 15% Swedish/Norwegian, 10% Italian)\nMy values have been influenced greatly by Marcus Aurelius’s Meditations, Confucius’s Lunyu ( 论语 ), and Noah Harari’s Homo sapiens. The most transformative read of my life was when I read Joanne Baker’s 50 Physics Ideas You Really Need to Know as a kid.\nI believe that fundamental physics is an attempt at approximating the universe’s source code, and that AI will probably find it.1\nThis is exciting, and on this website, I will explore the basics of deep learning in neural networks.\nFeel free to reach out at karlcal@berkeley.edu or karlcal@slac.stanford.edu!"
   },
   {
     "objectID": "about.html#footnotes",
     "href": "about.html#footnotes",
     "title": "About",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nEven Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell’s equations. As far as I can tell, all new “idea vectors” are constructed from previous “idea vectors” in some fixed-dimensional space.↩︎"
+    "text": "Footnotes\n\n\nIf new ideas are clever linear combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.\nEven Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell’s equations. As far as I can tell, all new “idea vectors” are constructed from previous “idea vectors” in some fixed-dimensional space.↩︎"
   },
   {
     "objectID": "posts/post-with-code/index.html",

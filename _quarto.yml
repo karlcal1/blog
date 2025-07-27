@@ -6,6 +6,7 @@ project:
 
 website:
   title: "karlve.com"
+  favicon: "circular_face_3.png"
   navbar:
     right:
       - about.qmd
