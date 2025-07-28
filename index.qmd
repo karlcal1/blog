@@ -1,5 +1,6 @@
 ---
-title: "Karl Vilgot Hubertus Vilhelmsson Emneby"
+title: "karl vilgot hubertus vilhelmsson emneby"
+subtitle: "uc berkeley & slac"
 listing:
   contents: posts
   sort: "date desc"

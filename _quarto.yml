@@ -10,7 +10,7 @@ website:
   navbar:
     right:
       - about.qmd
-      - text: "CV"
+      - text: "cv"
         href: "https://docs.google.com/document/d/1p3t-C2WdBLR2Mzka6uRuCfuDtN2X6dtAeCcjir_1ml0/export?format=pdf"
       - icon: github
         href: https://github.com/karlcal1
