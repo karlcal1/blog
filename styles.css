@@ -41,4 +41,38 @@
     margin-top: 0;
     border: 3px solid #f0f0f0;
   }
+  /* Force left alignment on mobile */
+  body,
+  .content,
+  .quarto-container,
+  .quarto-content,
+  .quarto-about-solana,
+  .about-contents,
+  .quarto-title,
+  .quarto-title-block,
+  .column-body,
+  .column-page,
+  main,
+  article,
+  p,
+  ul,
+  ol,
+  h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
+  }
+  
+  /* Ensure list items stay left-aligned */
+  .quarto-listing .list,
+  .quarto-post,
+  .listing-title,
+  .listing-description,
+  .metadata {
+    text-align: left !important;
+  }
+  
+  /* Keep navigation centered (you probably want this) */
+  .navbar-brand,
+  .navbar-nav {
+    text-align: center !important;
+  }
 }
