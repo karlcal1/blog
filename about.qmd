@@ -24,7 +24,7 @@ The most transformative read of my life was when I read Joanne Baker's *50 Physi
 I believe that fundamental physics is an attempt at approximating the universe's source code, and that AI will probably find it.[^1]  
 This is exciting, and on this website, I will **explore the basics of deep learning**. 
 
-Feel free to reach out at the correct reordering of these strings: "berkeley", "@", ".", "edu", "karlcal", or "slac.stanford", "@", "karlcal",  ".", "edu"
+Feel free to reach out at the correct reordering of either of the following 2 sets of strings: "berkeley", "@", ".", "edu", "karlcal", or "slac.stanford", "@", "karlcal",  ".", "edu"
 
 
 [^1]: *If new ideas are clever linear combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.  
