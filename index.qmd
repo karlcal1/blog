@@ -8,11 +8,12 @@ title-block-banner: true
 <style>
 .title-block-header {
   position: relative;
+  padding-right: 250px; /* Add space for the image */
 }
 
 .profile-pic {
   position: absolute;
-  right: 0;
+  right: 20px; /* Add some margin from the edge */
   top: 50%;
   transform: translateY(-50%);
   width: 220px;
@@ -22,6 +23,10 @@ title-block-banner: true
 }
 
 @media (max-width: 768px) {
+  .title-block-header {
+    padding-right: 0; /* Remove padding on mobile */
+  }
+  
   .profile-pic {
     position: static;
     transform: none;
