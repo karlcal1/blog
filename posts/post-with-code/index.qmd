@@ -1,8 +1,0 @@
----
-title: "I'll put a post here in the coming weeks"
-author: "karl Vilhelmsson Emneby"
-date: "2025-07-22"
-image: "image.jpg"
----
-
-This will soon be a post with executable code.

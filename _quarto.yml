@@ -9,7 +9,6 @@ website:
   favicon: "circular_face_3.png"
   navbar:
     right:
-      - about.qmd
       - text: "cv"
         href: "https://docs.google.com/document/d/1p3t-C2WdBLR2Mzka6uRuCfuDtN2X6dtAeCcjir_1ml0/export?format=pdf"
       - icon: github

@@ -1,37 +1,16 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "I’ll put an intro statement here",
-    "section": "",
-    "text": "This will be the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "karl vilgot hubertus vilhelmsson emneby",
     "section": "",
-    "text": "I’ll put a post here in the coming weeks\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nkarl Vilhelmsson Emneby\n\n\n\n\n\n\n\n\n\n\n\n\nI’ll put an intro statement here\n\n\n\n\n\n\n\n\nJul 22, 2025\n\n\nKarl Vilhelmsson Emneby\n\n\n\n\n\nNo matching items"
+    "text": "I believe that fundamental physics is an attempt at approximating the universe’s source code, and that AI will probably find it.1\nThis is exciting, and on this website, I will explore the basics of deep learning.\nFeel free to reach out at the correct reordering of either of the following 2 sets of strings: “berkeley”, “@”, “.”, “edu”, “karlcal”, or “slac.stanford”, “@”, “karlcal”, “.”, “edu”"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about me",
-    "section": "",
-    "text": "I’m a 4th year physics major at UC Berkeley.\nI’m also a particle physics researcher at the Neutrino Group at SLAC under Professor Hirohisa Tanaka. I use latent spaces to investigate the low-energy excess of electron neutrinos detected in the MiniBooNE experiment.\nBefore SLAC, I worked on Bayesian analysis for Mu2e under Professor Yury Kolomensky.\nBefore Berkeley, I wanted to experience “real life” – so I went all in and took a half a year to work as a trash man. Then I went to South America for a half a year. Stuff like the deadly fear I felt when running from wild dogs in the desert gave me clarity on what matters in life.\nI love language and spend more than half of my time speaking languages other than English (~ 30% Chinese, 30% English, 15% Spanish, 15% Swedish/Norwegian, 10% Italian)\nMy values have been influenced greatly by Marcus Aurelius’s Meditations, Confucius’s Lunyu ( 论语 ), and Noah Harari’s Homo sapiens. The most transformative read of my life was when I read Joanne Baker’s 50 Physics Ideas You Really Need to Know as a kid.\nI believe that fundamental physics is an attempt at approximating the universe’s source code, and that AI will probably find it.1\nThis is exciting, and on this website, I will explore the basics of deep learning.\nFeel free to reach out at the correct reordering of either of the following 2 sets of strings: “berkeley”, “@”, “.”, “edu”, “karlcal”, or “slac.stanford”, “@”, “karlcal”, “.”, “edu”"
-  },
-  {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "about me",
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "karl vilgot hubertus vilhelmsson emneby",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nIf new ideas are clever linear combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.\nEven Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell’s equations. As far as I can tell, all new “idea vectors” are constructed from previous “idea vectors” in some fixed-dimensional space.↩︎"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "I’ll put a post here in the coming weeks",
-    "section": "",
-    "text": "This will soon be a post with executable code."
   }
 ]

@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./circular_face_3.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -70,70 +68,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -150,10 +90,6 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">about me</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://docs.google.com/document/d/1p3t-C2WdBLR2Mzka6uRuCfuDtN2X6dtAeCcjir_1ml0/export?format=pdf"> 
 <span class="menu-text">cv</span></a>
@@ -183,14 +119,14 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
+    <div class="quarto-title column-body">
       <h1 class="title">karl vilgot hubertus vilhelmsson emneby</h1>
             <p class="subtitle lead">uc berkeley &amp; slac</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta">
 
       
     
@@ -198,77 +134,67 @@ window.Quarto = {
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
-<p><img src="otherERpicOfMe.JPG" class="profile-pic img-fluid"></p>
+<style>
+.title-block-header {
+  position: relative;
+}
+
+.profile-pic {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .profile-pic {
+    position: static;
+    transform: none;
+    display: block;
+    margin: 20px auto;
+    width: 180px;
+    height: 180px;
+  }
+}
+</style>
+<p><img src="picOfMe.jpg" class="profile-pic" alt="Profile picture"></p>
+<ul>
+<li><p>I’m a 4th-year physics major at UC Berkeley.</p></li>
+<li><p>I’m also a particle physics researcher at the <a href="https://web.slac.stanford.edu/neutrino/">Neutrino Group at SLAC</a> under <a href="https://profiles.stanford.edu/hirohisa-tanaka">Professor Hirohisa Tanaka</a>. I use latent spaces to investigate the low-energy excess of electron neutrinos detected in the <a href="https://en.wikipedia.org/wiki/MiniBooNE">MiniBooNE experiment</a>.</p></li>
+<li><p>Before SLAC, I worked on Bayesian analysis for <a href="https://mu2e.fnal.gov/">Mu2e</a> under Professor <a href="https://physics.berkeley.edu/people/faculty/yury-kolomensky">Yury Kolomensky</a>.</p></li>
+<li><p>Before Berkeley, I wanted to experience “real life” – so I went all in and took a half a year to work as a trash man. Then I went to South America for a half a year. Stuff like the deadly fear I felt when running from <a href="desert_around_arequipa.jpg">wild dogs in the desert</a> gave me clarity on <a href="friends_n_fam.jpg">what matters in life</a>.</p></li>
+<li><p>I love language and spend more than half of my time speaking languages other than English (~ 30% Chinese, 30% English, 15% Spanish, 15% Swedish/Norwegian, 10% Italian)</p></li>
+<li><p>My values have been influenced greatly by Marcus Aurelius’s <em>Meditations</em>, Confucius’s <em>Lunyu</em> ( <em>论语</em> ), and Noah Harari’s <em>Homo sapiens</em>. The most transformative read of my life was when I read Joanne Baker’s <em>50 Physics Ideas You Really Need to Know</em> as a kid.</p></li>
+</ul>
+<p>I believe that fundamental physics is an attempt at approximating the universe’s source code, and that AI will probably find it.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a><br>
+This is exciting, and on this website, I will <strong>explore the basics of deep learning</strong>.</p>
+<p>Feel free to reach out at the correct reordering of either of the following 2 sets of strings: “berkeley”, “@”, “.”, “edu”, “karlcal”, or “slac.stanford”, “@”, “karlcal”, “.”, “edu”</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1753167600000" data-listing-file-modified-sort="1753205175865" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<div class="thumbnail"><a href="./posts/post-with-code/index.html" class="no-external">
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-<img loading="lazy" src="./posts/post-with-code/image.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/post-with-code/index.html" class="no-external">I’ll put a post here in the coming weeks</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/post-with-code/index.html" class="no-external">
-This will soon be a post with executable code.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/post-with-code/index.html" class="no-external">
-<div class="listing-date">
-Jul 22, 2025
-</div>
-<div class="listing-author">
-karl Vilhelmsson Emneby
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1753167600000" data-listing-file-modified-sort="1753205263283" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
-<div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts\welcome\thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">I’ll put an intro statement here</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/welcome/index.html" class="no-external">
-This will be the first post in a Quarto blog. Welcome!
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Jul 22, 2025
-</div>
-<div class="listing-author">
-Karl Vilhelmsson Emneby
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+<ol>
+<li id="fn1"><p><em>If new ideas are clever linear combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.<br>
+Even Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell’s equations. As far as I can tell, all new “idea vectors” are constructed from previous “idea vectors” in some fixed-dimensional space.</em><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
