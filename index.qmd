@@ -9,13 +9,12 @@ title-block-banner: true
 .title-block-header {
   position: relative;
   padding-right: 200px; /* Add space for the image */
-  min-height: 180px; /* Ensure enough height */
 }
 
 .profile-pic {
   position: absolute;
   right: 20px; /* Add some margin from the edge */
-  top: 60%; /* Move it down a bit */
+  top: 50%;
   transform: translateY(-50%);
   width: 170px; /* Smaller size */
   height: 170px; /* Smaller size */
@@ -23,10 +22,18 @@ title-block-banner: true
   object-fit: cover;
 }
 
+/* Reduce spacing after header */
+.quarto-title-meta {
+  margin-bottom: 0 !important;
+}
+
+main {
+  margin-top: -2rem !important;
+}
+
 @media (max-width: 768px) {
   .title-block-header {
     padding-right: 0; /* Remove padding on mobile */
-    min-height: auto;
   }
   
   .profile-pic {
@@ -36,6 +43,10 @@ title-block-banner: true
     margin: 20px auto;
     width: 150px;
     height: 150px;
+  }
+  
+  main {
+    margin-top: 0 !important;
   }
 }
 </style>
