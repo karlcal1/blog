@@ -8,16 +8,17 @@ title-block-banner: true
 <style>
 .title-block-header {
   position: relative;
-  padding-right: 250px; /* Add space for the image */
+  padding-right: 200px; /* Add space for the image */
+  min-height: 180px; /* Ensure enough height */
 }
 
 .profile-pic {
   position: absolute;
   right: 20px; /* Add some margin from the edge */
-  top: 50%;
+  top: 60%; /* Move it down a bit */
   transform: translateY(-50%);
-  width: 220px;
-  height: 220px;
+  width: 170px; /* Smaller size */
+  height: 170px; /* Smaller size */
   border-radius: 50%;
   object-fit: cover;
 }
@@ -25,6 +26,7 @@ title-block-banner: true
 @media (max-width: 768px) {
   .title-block-header {
     padding-right: 0; /* Remove padding on mobile */
+    min-height: auto;
   }
   
   .profile-pic {
@@ -32,8 +34,8 @@ title-block-banner: true
     transform: none;
     display: block;
     margin: 20px auto;
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
   }
 }
 </style>
