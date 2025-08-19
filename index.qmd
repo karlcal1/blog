@@ -55,10 +55,10 @@ main {
 
 - I'm a 4th-year physics major at UC Berkeley. 
 
-- I'm also a particle physics researcher at the [Neutrino Group at SLAC](https://github.com/karlcal1/MiniBooNE-studies/blob/main/presentation.pdf) under [Professor Hirohisa Tanaka](https://profiles.stanford.edu/hirohisa-tanaka). 
-I use latent spaces to investigate the low-energy excess of electron neutrinos detected in the [MiniBooNE experiment](https://en.wikipedia.org/wiki/MiniBooNE). 
+- I'm also a particle physics researcher at the Neutrino Group at SLAC under Professor Hirohisa Tanaka. 
+[I use latent spaces to investigate the low-energy excess of electron neutrinos](https://github.com/karlcal1/MiniBooNE-studies/blob/main/presentation.pdf) detected in the MiniBooNE experiment. 
 
-- Before SLAC, I worked on Bayesian analysis for [Mu2e](https://mu2e.fnal.gov/) under Professor [Yury Kolomensky](https://physics.berkeley.edu/people/faculty/yury-kolomensky). 
+- Before SLAC, I worked on Bayesian analysis for Mu2e under Professor Yury Kolomensky. 
 
 - Before Berkeley, I wanted to experience "real life" -- so I went all in and took a half a year to work as a trash man.
 Then I went to South America for a half a year.
