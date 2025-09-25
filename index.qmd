@@ -1,6 +1,6 @@
 ---
 title: "karl vilgot hubertus vilhelmsson emneby"
-subtitle: "bair & berkeley. ex slac"
+subtitle: "chai, bair & berkeley physics. ex slac"
 page-layout: article
 title-block-banner: true
 ---
@@ -56,12 +56,12 @@ main {
 I've spent most of my life on understanding the foundations of the physical world.  
 I'll spend the rest on how models think and how to make them better and safer. 
 
-- Starting early Sept. 2025, I'm an interpretability researcher at BAIR with [Cam Allen](https://camallen.net/). 
+- Starting early Sept. 2025, I'm an interpretability researcher at CHAI/BAIR with [Cam Allen](https://camallen.net/). 
 
-- I'm also a 4th-year physics major at UC Berkeley. 
+- I'm also a 4th-year physics major at Berkeley. 
 
 - Until late Aug. 2025, I was a particle physics researcher at the Neutrino Group at SLAC under Professor Hirohisa Tanaka. 
-[I use latent spaces to investigate the low-energy excess of electron neutrinos](https://github.com/karlcal1/MiniBooNE-studies/blob/main/presentation.pdf) detected in the MiniBooNE experiment. 
+[I used latent spaces to investigate the low-energy excess of electron neutrinos](https://github.com/karlcal1/MiniBooNE-studies/blob/main/presentation.pdf) detected in the MiniBooNE experiment. 
 
 - Before SLAC, I worked on Bayesian analysis for Mu2e under Professor Yury Kolomensky. 
 
@@ -80,6 +80,6 @@ This is exciting, and on this website, I will **explore the basics of deep learn
 Feel free to reach out at the correct reordering of either of the following 2 sets of strings: "berkeley", "@", ".", "edu", "karlcal", or "slac.stanford", "@", "karlcal",  ".", "edu"
 
 
-[^1]: *If new ideas are clever linear combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.  
+[^1]: *If new ideas are clever combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.  
 Even Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell's equations. 
 As far as I can tell, all new "idea vectors" are constructed from previous "idea vectors" in some fixed-dimensional space.*

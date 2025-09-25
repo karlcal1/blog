@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./circular_face_3.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,6 +81,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">karlve.com</span>
     </a>
@@ -121,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
       <h1 class="title">karl vilgot hubertus vilhelmsson emneby</h1>
-            <p class="subtitle lead">bair &amp; berkeley. ex slac</p>
+            <p class="subtitle lead">chai, bair &amp; berkeley physics. ex slac</p>
                       </div>
   </div>
     
@@ -194,9 +197,9 @@ main {
 <p>I’ve spent most of my life on understanding the foundations of the physical world.<br>
 I’ll spend the rest on how models think and how to make them better and safer.</p>
 <ul>
-<li><p>Starting early Sept.&nbsp;2025, I’m an interpretability researcher at BAIR with <a href="https://camallen.net/">Cam Allen</a>.</p></li>
-<li><p>I’m also a 4th-year physics major at UC Berkeley.</p></li>
-<li><p>Until late Aug.&nbsp;2025, I was a particle physics researcher at the Neutrino Group at SLAC under Professor Hirohisa Tanaka. <a href="https://github.com/karlcal1/MiniBooNE-studies/blob/main/presentation.pdf">I use latent spaces to investigate the low-energy excess of electron neutrinos</a> detected in the MiniBooNE experiment.</p></li>
+<li><p>Starting early Sept.&nbsp;2025, I’m an interpretability researcher at CHAI/BAIR with <a href="https://camallen.net/">Cam Allen</a>.</p></li>
+<li><p>I’m also a 4th-year physics major at Berkeley.</p></li>
+<li><p>Until late Aug.&nbsp;2025, I was a particle physics researcher at the Neutrino Group at SLAC under Professor Hirohisa Tanaka. <a href="https://github.com/karlcal1/MiniBooNE-studies/blob/main/presentation.pdf">I used latent spaces to investigate the low-energy excess of electron neutrinos</a> detected in the MiniBooNE experiment.</p></li>
 <li><p>Before SLAC, I worked on Bayesian analysis for Mu2e under Professor Yury Kolomensky.</p></li>
 <li><p>Before Berkeley, I wanted to experience “real life” – so I went all in and took a half a year to work as a trash man. Then I went to South America for a half a year. Things like the deadly fear I felt when running from <a href="desert_around_arequipa.jpg">wild dogs in the desert</a> gave me clarity on <a href="friends_n_fam.jpg">what matters in life</a>.</p></li>
 <li><p>I love language and spend more than half of my time speaking languages other than English (~ 30% Chinese, 30% English, 15% Spanish, 15% Swedish/Norwegian, 10% Italian)</p></li>
@@ -212,7 +215,7 @@ This is exciting, and on this website, I will <strong>explore the basics of deep
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p><em>If new ideas are clever linear combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.<br>
+<li id="fn1"><p><em>If new ideas are clever combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.<br>
 Even Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell’s equations. As far as I can tell, all new “idea vectors” are constructed from previous “idea vectors” in some fixed-dimensional space.</em><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
@@ -267,13 +270,14 @@ Even Einstein, arguably the smartest person ever, got special relativity by comb
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
