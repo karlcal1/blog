@@ -1,5 +1,5 @@
 ---
-title: "karl vilgot hubertus vilhelmsson emneby"
+title: "karl vilgot hubertus vilhelmsson emneby :-)"
 subtitle: "chai, bair & berkeley physics. ex slac"
 page-layout: article
 title-block-banner: true
