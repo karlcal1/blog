@@ -53,10 +53,10 @@ main {
 
 <img src="picOfMe.jpg" class="profile-pic" alt="Profile picture">
 
-I've spent most of my life on understanding the foundations of the physical world.  
-I'll spend the rest on how models think and how to make them better and safer. 
+I've spent most of my life on learning the foundation of the physical world.  
+I'll spend the rest on figuring out what thinking is as related to inventing safer and better models.
 
-- Starting early Sept. 2025, I'm an interpretability researcher at CHAI/BAIR with [Cam Allen](https://camallen.net/). 
+- Starting early Sept. 2025, I'm an interpretability researcher at CHAI (Center for Human-Compatible AI)/BAIR (Berkeley AI Research lab) with [Cam Allen](https://camallen.net/). I find our work *very* (!) cool, but I won't elaborate too much yet.
 
 - I'm also a 4th-year physics major at Berkeley. 
 
@@ -71,15 +71,7 @@ Things like the deadly fear I felt when running from [wild dogs in the desert](d
 
 - I love language and spend more than half of my time speaking languages other than English (~ 30% Chinese, 30% English, 15% Spanish, 15% Swedish/Norwegian, 10% Italian)
 
-- My values have been influenced greatly by Marcus Aurelius's *Meditations*, Confucius's *Lunyu* ( *论语* ), and Noah Harari's *Homo sapiens*. 
+- Apart from family and friends, my values have been influenced greatly by Marcus Aurelius's *Meditations*, Confucius's *Lunyu* ( *论语* ), Noah Harari's *Homo sapiens*, and, honestly, *Avatar the Last Airbender* and *Spongebob*. 
 The most transformative read of my life was when I read Joanne Baker's *50 Physics Ideas You Really Need to Know* as a kid.
 
-I believe that fundamental physics is an attempt at approximating the universe's source code, and that AI will probably find it.[^1]  
-This is exciting, and on this website, I will **explore the basics of deep learning**. 
-
-Feel free to reach out at the correct reordering of either of the following 2 sets of strings: "berkeley", "@", ".", "edu", "karlcal", or "slac.stanford", "@", "karlcal",  ".", "edu"
-
-
-[^1]: *If new ideas are clever combinations of previous ideas, it seems that artificial neural networks will be the ones coming up with most new theories and inventions by virtue of their computational speed.  
-Even Einstein, arguably the smartest person ever, got special relativity by combining Galilean relativity, the absence of an ether (as implied by the recently conducted Michelson-Morley experiment), and a fixed speed of light as given by the solution to Maxwell's equations. 
-As far as I can tell, all new "idea vectors" are constructed from previous "idea vectors" in some fixed-dimensional space.*
+I love chatting about the geometry of thinking and other AI topics [over a boba](iroh.png)! Feel free to reach out at the correct reordering of this set of strings: "berkeley", "@", ".", "edu", "karlcal"
