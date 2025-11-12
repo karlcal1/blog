@@ -56,7 +56,7 @@ main {
 I've spent most of my life on learning the foundation of the physical world.  
 I'll spend the rest on figuring out what thinking is as related to inventing safer and better models.
 
-- Starting early Sept. 2025, I'm an interpretability researcher at CHAI (Center for Human-Compatible AI)/BAIR (Berkeley AI Research lab) with [Cam Allen](https://camallen.net/). I find our work *very* (!) cool, but I won't elaborate too much yet.
+- Starting early Sept. 2025, I'm an interpretability researcher at CHAI (Center for Human-Compatible AI)/BAIR (Berkeley AI Research lab) with [Cam Allen](https://camallen.net/).
 
 - I'm also a 4th-year physics major at Berkeley. 
 
