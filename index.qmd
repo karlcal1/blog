@@ -53,8 +53,8 @@ main {
 
 <img src="picOfMe.jpg" class="profile-pic" alt="Profile picture">
 
-I've spent most of my life on learning the foundation of the physical world.  
-I'll spend the rest on figuring out what thinking is as related to inventing safer and better models.
+I've spent the past decade on learning the foundation of the physical world.  
+I'll spend the next on figuring out what thinking is as related to inventing safer and better models.
 
 - Starting early Sept. 2025, I'm an interpretability researcher at CHAI (Center for Human-Compatible AI)/BAIR (Berkeley AI Research lab) with [Cam Allen](https://camallen.net/).
 
