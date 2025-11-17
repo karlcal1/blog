@@ -2,38 +2,36 @@
 title: "karl vilgot hubertus vilhelmsson emneby :-)"
 subtitle: "chai, bair & berkeley physics. ex slac"
 page-layout: article
-title-block-banner: true
+title-block-banner: "newPic.jpg"
 ---
-
 <style>
 .title-block-header {
   position: relative;
-  padding-right: 200px; /* Add space for the image */
+  padding-right: 200px;
+  background-position: center 100% !important;
+  background-size: cover !important;
+  min-height: 300px;
 }
-
 .profile-pic {
   position: absolute;
-  right: 20px; /* Add some margin from the edge */
+  right: 20px;
   top: 50%;
   transform: translateY(-50%);
-  width: 170px; /* Smaller size */
-  height: 170px; /* Smaller size */
+  width: 170px;
+  height: 170px;
   border-radius: 50%;
   object-fit: cover;
 }
-
 /* Reduce spacing after header */
 .quarto-title-meta {
   margin-bottom: 0 !important;
 }
-
 main {
   margin-top: -2rem !important;
 }
-
 @media (max-width: 768px) {
   .title-block-header {
-    padding-right: 0; /* Remove padding on mobile */
+    padding-right: 0;
   }
   
   .profile-pic {
@@ -49,18 +47,33 @@ main {
     margin-top: 0 !important;
   }
 }
+
+.title-block-header h1,
+.title-block-header .subtitle,
+.title-block-header .title,
+h1.title,
+.quarto-title-block .title {
+  color: yellow !important;
+}
+
+.title-block-header .subtitle,
+.quarto-title-block .subtitle,
+p.subtitle {
+  color: orange !important;
+}
+
 </style>
 
 <img src="picOfMe.jpg" class="profile-pic" alt="Profile picture">
 
 I've spent the past decade on learning the foundation of the physical world.  
-I'll spend the next on figuring out what thinking is as related to inventing safer and better models.
+I'll spend the next on figuring out what thinking is for the purpose of inventing safer and better models.
 
 - Starting early Sept. 2025, I'm an interpretability researcher at CHAI (Center for Human-Compatible AI)/BAIR (Berkeley AI Research lab) with [Cam Allen](https://camallen.net/).
 
 - I'm also a 4th-year physics major at Berkeley. 
 
-- Until late Aug. 2025, I was a particle physics researcher at the Neutrino Group at SLAC under Professor Hirohisa Tanaka. 
+- Until late Aug. 2025, I was a particle physics researcher at the Neutrino Group at SLAC National Accelerator Laboratory under Professor Hirohisa Tanaka. 
 [I used latent spaces to investigate the low-energy excess of electron neutrinos](https://github.com/karlcal1/MiniBooNE-studies/blob/main/presentation.pdf) detected in the MiniBooNE experiment. 
 
 - Before SLAC, I worked on Bayesian analysis for Mu2e under Professor Yury Kolomensky. 
@@ -75,3 +88,5 @@ Things like the deadly fear I felt when running from [wild dogs in the desert](d
 The most transformative read of my life was when I read Joanne Baker's *50 Physics Ideas You Really Need to Know* as a kid.
 
 I love chatting about the geometry of thinking and other AI topics [over a boba](iroh.png)! Feel free to reach out at the correct reordering of this set of strings: "berkeley", "@", ".", "edu", "karlcal"
+
+<img src="surfRobot.png" style="width: 30%; max-width: 800px; display: block; margin: 3rem auto; border-radius: 10px;">
