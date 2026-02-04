@@ -1,6 +1,6 @@
 ---
 title: "karl vilgot hubertus vilhelmsson emneby :-)"
-subtitle: "chai, bair & berkeley physics. ex slac"
+subtitle: "CHAI, BAIR & berkeley physics. ex SLAC"
 page-layout: article
 title-block-banner: "newPic.jpg"
 ---
@@ -67,11 +67,11 @@ p.subtitle {
 
 <img src="picOfMe.jpg" class="profile-pic" alt="Profile picture">
 
-I've spent the past decade on learning the foundation of the physical world.  
-I'll spend the next on figuring out what thinking is for the purpose of inventing safer and better models.
+I used to be all about physics.  
+Now I'm all about AI safety. 
 
-- Starting early Sept. 2025, I'm an interpretability researcher at CHAI (Center for Human-Compatible AI)/BAIR (Berkeley AI Research lab) with [Cam Allen](https://camallen.net/).
-I currently have a paper  under review.
+- Starting early Sept. 2025, I'm an AI researcher at CHAI (Center for Human-Compatible AI) with [Cam Allen](https://camallen.net/).
+I have a world model paper under review, which matters firstly because it is a step in the direction of predicting when interpretable abstractions appear, and secondly because it empirically shows that linear probe fits don't imply that networks are "aware of" or use those features. 
 
 - I'm also a 4th-year physics major at Berkeley. 
 
@@ -84,11 +84,11 @@ I currently have a paper  under review.
 Then I went to South America for a half a year.
 Things like the deadly fear I felt when running from [wild dogs in the desert](desert_around_arequipa.jpg) gave me clarity on [what matters in life](friends_n_fam.jpg). 
 
-- I love language and spend more than half of my time speaking languages other than English (~ 30% Chinese, 30% English, 15% Spanish, 15% Swedish/Norwegian, 10% Italian)
+- I love language and spend more than half of my time speaking languages other than English (Chinese, Spanish, Swedish/Norwegian, Italian).
 
 - Apart from family and friends, my values have been influenced greatly by Marcus Aurelius's *Meditations*, Confucius's *Lunyu* ( *论语* ), Noah Harari's *Homo sapiens*, and, honestly, Avatar the Last Airbender and SpongeBob. 
-The most transformative read of my life was when I read Joanne Baker's *50 Physics Ideas You Really Need to Know* as a kid.
+The most transformative read of my life was when I read Joanne Baker's *50 Physics Ideas You Really Need to Know* as a kid.  
 
-I love chatting about the geometry of thinking and other AI topics [over a boba](iroh.png)! Feel free to reach out at the correct reordering of this set of strings: "berkeley", "@", ".", "edu", "karlcal"
+I'd love to chat about AI and AI safety [over a boba](iroh.png)! Feel free to reach out at the correct reordering of this set of strings: "berkeley", "@", ".", "edu", "karlcal"
 
 <img src="surfRobot.png" style="width: 30%; max-width: 800px; display: block; margin: 3rem auto; border-radius: 10px;">
