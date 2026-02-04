@@ -67,7 +67,7 @@ p.subtitle {
 
 <img src="picOfMe.jpg" class="profile-pic" alt="Profile picture">
 
-I've spent the past decade on physics. now I'm focused on AI safety.
+Physics taught me how to see the world. AI safety is how I hope to protect it. 
 
 - Starting early Sept. 2025, I'm an AI researcher at CHAI (Center for Human-Compatible AI) with [Cam Allen](https://camallen.net/).
 I have a world model paper under review, which matters firstly because it is a step in the direction of predicting when interpretable abstractions appear, and secondly because it empirically shows that linear probe fits don't imply that networks are "aware of" or use those features. 
